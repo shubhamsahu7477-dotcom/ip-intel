@@ -28,16 +28,7 @@ A fast, terminal-based **IP intelligence and geolocation tool** written in Pytho
 
 ## 🖥️ Preview
 
-```
-MENU
-  [1] Single IP Lookup
-  [2] Bulk IP Scan (multiple IPs)
-  [3] Bulk from file (ip_list.txt)
-  [4] Set AbuseIPDB API Key
-  [5] Exit
 
-Choice:
-```
 
 Sample single-lookup output includes sections for **LOCATION**, **NETWORK**, and **SECURITY** — each with clearly color-coded values (green = safe, yellow = caution, red = risk).
 
@@ -131,5 +122,5 @@ All Rights Reserved — see [`LICENSE`](LICENSE) for full terms. This project ma
 
 ## 🙋 Author
 
-Made with ❤️ by **[Your Name]**
+Made with ❤️ by **[shubham sahu]**
 If this tool helped you, consider giving it a ⭐ on GitHub!
