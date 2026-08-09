@@ -28,6 +28,8 @@ A fast, terminal-based **IP intelligence and geolocation tool** written in Pytho
 
 ## 🖥️ Preview
 
+<img width="1080" height="709" alt="Image" src="https://github.com/user-attachments/assets/ea3f84ac-3314-4483-b36a-3ab7050812a5" />
+
 
 
 Sample single-lookup output includes sections for **LOCATION**, **NETWORK**, and **SECURITY** — each with clearly color-coded values (green = safe, yellow = caution, red = risk).
